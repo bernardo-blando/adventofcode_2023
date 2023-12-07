@@ -1,0 +1,7 @@
+hc        1J   =   2k
+2k        2J   =   3k   1J = 3k
+2*2k      2J   =   4k   1J = fh
+3k        3J   =   4k   1J = fh
+fh        2J   =   5k   3J = 5K
+4k        4J   =   5k   1J = 5k
+5k        
